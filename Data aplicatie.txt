@@ -1,0 +1,7 @@
+Grant Type	Authorization Code
+Callback URL	["https://www.anaf.ro"]
+Auth URL	https://logincert.anaf.ro/anaf-oauth2/v1/authorize
+		https://logincert.anaf.ro/anaf-oauth2/v1/token
+		https://logincert.anaf.ro/anaf-oauth2/v1/revoke
+Client ID	1708a79fe4de5c34521a656cec432edd0c58d20fdb5cd465
+Client Secret	c0cb21db9e1e9adaa423593c34aa22562c516d230a992edd0c58d20fdb5cd465
